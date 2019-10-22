@@ -2,10 +2,10 @@
   display: none;
 }
 
-/*div#wall #tag-3.slick {*/
-/*  background-color: red;*/
-/*  display: none;*/
-/*}*/
+div#wall #tag-3.slick {
+  background-color: red;
+  display: none;
+}
 
 
 /*, #wall ~ #tag-3.slick, #tag-4, #tag-5, #tag-6, #tag-7*/
