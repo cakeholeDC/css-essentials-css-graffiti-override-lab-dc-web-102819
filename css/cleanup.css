@@ -3,7 +3,7 @@
 }
 
 div#wall #tag-3.slick {
-  display: inherit;
+  display: revert;
 }
 
 
