@@ -3,8 +3,7 @@
 }
 
 div#wall #tag-3.slick {
-  background-color: red;
-  display: none;
+  display: inherit;
 }
 
 
